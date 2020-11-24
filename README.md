@@ -12,3 +12,5 @@ https://noplur.github.io/run-buddy/
 
 ##Contribution
 Made with ❤️ by Aaron
+
+### ©️2019 Run Buddy, Inc 
